@@ -34,3 +34,7 @@ module.exports = {
 The recommended config enables the one rule this plugin currently has: `immer-reducer/no-optional-or-default-value-params`.
 
 This rule disallows having optional parameters or parameters with default values in immer-reducer extended classes. See [the warning in the main immer-reducer repo](https://github.com/esamattis/immer-reducer#-integrating-with-the-redux-ecosystem) for why this is necessary.
+
+## Screenshots
+
+![Screenshot](screenshots/1.png)
