@@ -1,5 +1,19 @@
 {
   "name": "eslint-plugin-immer-reducer",
   "version": "0.1.0",
-  "main": "index.js"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skoshy/eslint-plugin-immer-reducer.git"
+  },
+  "author": "Stefan Koshy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skoshy/eslint-plugin-immer-reducer/issues"
+  },
+  "homepage": "https://github.com/skoshy/eslint-plugin-immer-reducer#readme",
+  "description": ""
 }
